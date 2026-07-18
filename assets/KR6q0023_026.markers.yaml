@@ -10,6 +10,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR6q0023_X_026-0686c21, ed: X, 'n': 0686c21}
   - {type: line-break, offset: 7, content: '', id: KR6q0023_X_026-0582a04, ed: R143, 'n': 0582a04}
   - {type: punctuation, offset: 7, content: ▲, id: KR6q0023_X_026-bkkpn1}
+  - {type: 'voice:problem', offset: 7, length: 1540, id: KR6q0023_bkk_026-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''▲'' at offset 7, got ''▲'' at offset 1547'}
   - {type: xml-element, offset: 20, content: '', id: pX83p0686c2142, name: p, role: open, attrs: {'xml:id': pX83p0686c2142, 'cb:place': inline}}
   - {type: punctuation, offset: 26, content: 。, id: KR6q0023_X_026-bkkpn2}
   - {type: line-break, offset: 26, content: '', id: KR6q0023_X_026-0686c22, ed: X, 'n': 0686c22}
@@ -3040,4 +3041,4 @@ markers:
   - {type: line-break, offset: 9128, content: '', id: KR6q0023_X_026-0693b22, ed: X, 'n': 0693b22}
   - {type: line-break, offset: 9128, content: '', id: KR6q0023_X_026-0595b01, ed: R143, 'n': 0595b01}
   back: []
-hash: sha256:13e1d6efc2aabb370d284771961171b0ca7dcfdadf0634c7f67be3fb3db6ecc3
+hash: sha256:780b340019062a32c6674a00ddc47b7cafd3e4d84423c3e62c4e840334c084b2

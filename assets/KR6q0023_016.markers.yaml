@@ -12,6 +12,7 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KR6q0023_X_016-0570c07, ed: X, 'n': 0570c07}
   - {type: line-break, offset: 6, content: '', id: KR6q0023_X_016-0349a09, ed: R143, 'n': 0349a09}
   - {type: punctuation, offset: 6, content: ▲, id: KR6q0023_X_016-bkkpn1}
+  - {type: 'voice:problem', offset: 6, length: 0, id: KR6q0023_bkk_016-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '▲' at offset 6}
   - {type: substitution, offset: 11, original: 价, replacement: 價, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16360}}
   - {type: xml-element, offset: 16, content: '', id: pX83p0570c0739, name: p, role: open, attrs: {'xml:id': pX83p0570c0739, 'cb:place': inline}}
   - {type: punctuation, offset: 21, content: 。, id: KR6q0023_X_016-bkkpn2}
@@ -3867,4 +3868,4 @@ markers:
   - {type: line-break, offset: 11948, content: '', id: KR6q0023_X_016-0579b21, ed: X, 'n': 0579b21}
   - {type: line-break, offset: 11948, content: '', id: KR6q0023_X_016-0367a01, ed: R143, 'n': 0367a01}
   back: []
-hash: sha256:a6c1cedc30791c022b4c3de8c2a8f38d1cc42ed13117ecdaed2683ea007561ea
+hash: sha256:0842ef9b9139a5197c5efe5d2b724f4506da4e7310fb48b678f2a5f015d9ff04
