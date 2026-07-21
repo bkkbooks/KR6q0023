@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0023_000-X.yaml, hash: 'sha256:31775618addbc9cfd1b8062e7c789258ded6b89a7ccd37a009b51a757da99f6a'}
+  - {seq: 0, filename: KR6q0023_000-X.yaml, hash: 'sha256:b630c6e4fb5b72c486de97d421b9888653add6e9b745079261df42873894ab60'}
   - {seq: 1, filename: KR6q0023_001-X.yaml, hash: 'sha256:03830240004128b977a5864c6b3226c1dd8f8a2a91049b02d0b9f265447e64d0'}
   - {seq: 2, filename: KR6q0023_002-X.yaml, hash: 'sha256:b6112dc976eeb1e2378244e527d687488387a6b1643ab6a7e523f457dad3a5aa'}
   - {seq: 3, filename: KR6q0023_003-X.yaml, hash: 'sha256:64c6b18ae08ac30f05311fdedc1ab7874580de7654cb6ad720519751d64e8838'}
@@ -53,7 +53,7 @@ assets:
   - {seq: 31, filename: KR6q0023_031-X.yaml, hash: 'sha256:6a2717bca59eb91eeb78e8b53200805b4b02b1e926df00fc5cc86ed88d249bf0'}
   - {seq: 32, filename: KR6q0023_032-X.yaml, hash: 'sha256:25d4549afaa5c1baa173950eab9cd67809533635d02ae242818eea916b2edacf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0023_000-X.markers.yaml, hash: 'sha256:d3e23d5d65fba85e02bbe9a323ca5b0dbb5576e60435d0e986439e9e2ac65801'}
+  - {seq: 0, role: markers, filename: assets/KR6q0023_000-X.markers.yaml, hash: 'sha256:561d3887326919f8d18362107ebe9aec054f434ad02515f4e6a6836f05cc685f'}
   - {seq: 1, role: markers, filename: assets/KR6q0023_001-X.markers.yaml, hash: 'sha256:03426dfded2b4ffb47355009ae08b656572b0b4ed686ded8e541fd4cbb902af6'}
   - {seq: 2, role: markers, filename: assets/KR6q0023_002-X.markers.yaml, hash: 'sha256:c74c5ced6d64be050b9bfa5e252e4114869a681c5cdd5ac457ae38420a1a091e'}
   - {seq: 3, role: markers, filename: assets/KR6q0023_003-X.markers.yaml, hash: 'sha256:027bc9a932af8604592f2a75062ef07940fed45936bdc9ac837713bfd654c165'}
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0023_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1578-A 水月齋指月錄原序
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0023_X_000-mulu-2
     span:
-    - front
+    - body
     - 741
     - 741
   label: No. 1578-B 刻指月錄發願偈
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0023_X_000-mulu-3
     span:
-    - front
+    - body
     - 1090
     - 1090
   label: 指月錄總目
@@ -7347,4 +7347,4 @@ table_of_contents:
   label: 履略
   type: mulu
   level: 1
-hash: sha256:52bfaf3af6cc96bf6185ca07dfdd1176da8215d4c834ca01614cbcca9c64369a
+hash: sha256:2291caf57d8e4834135b594b9189863907c009262d03256da27df142fabba56c
